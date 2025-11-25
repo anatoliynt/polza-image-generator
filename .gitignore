@@ -1,0 +1,20 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# API ключи
+.env
+
+# Сгенерированные изображения
+output/*.png
+output/*.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
